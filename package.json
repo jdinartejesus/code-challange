@@ -1,0 +1,23 @@
+{
+  "name": "code-challenge",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ant-design-vue": "^3.0.0-beta.9",
+    "pinia": "^2.0.11",
+    "swrv": "^1.0.0-beta.8",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "sass": "^1.49.7",
+    "unplugin-vue-components": "^0.17.18",
+    "vite": "^2.8.0"
+  }
+}
